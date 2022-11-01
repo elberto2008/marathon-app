@@ -11,7 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "clear": "0.0.1",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-livereload": "^3.8.1",
     "gutil": "^1.6.4",
     "st": "^1.1.0"
